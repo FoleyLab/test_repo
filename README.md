@@ -7,3 +7,6 @@ cloning
 forking
 fetching
 committing
+foleylab
+polaritons
+quantum

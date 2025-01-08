@@ -1,3 +1,4 @@
 # New file
 
-This is a new file - is it ok to merge into the main branch?
+This is a new file - is it ok to merge into the main branch? 
+Yes, it is ok to merge!
